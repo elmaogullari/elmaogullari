@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @elmaogullari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via elmaogullari at gmail dot com
+### Hi, I'm Ersen 👋
 
-<!---
-elmaogullari/elmaogullari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+International business developer and technology entrepreneur working across **AI, cybersecurity, defense and emerging technologies**. Based in Abu Dhabi, UAE.
+
+- 25+ years in IT, 10+ of them in executive roles
+- Open source, big data, virtualization and storage infrastructure in telecom and government
+- Currently interested in AI, post-quantum security and strategic partnerships
+- Learning Python
+
+**Find me**
+[Website](https://elmaogullari.github.io) · [LinkedIn](https://www.linkedin.com/in/elmaogullari/) · elmaogullari at gmail dot com
